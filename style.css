@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(5, 0, 0);
+}
+
+header button {
+    color: rgb(88, 179, 179);
+    background-color: rgba(13, 14, 13, 0.425);
+    border-radius: 50px;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.header img {
+    margin-top: 40px;
+    margin-left: 40px;
+    width: auto;
+    height: 85px;
+}
+nav ul li {
+    padding: 8px;
+    
+}
+#twittear{
+    font-display: center;
+    height: 30px;
+    width: 150px;
+    background-color: #8bf6facc;
+    border-radius: 15px;
+    margin-left: 40px;
+    cursor: pointer;
+}
